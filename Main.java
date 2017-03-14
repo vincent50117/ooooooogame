@@ -1,7 +1,7 @@
 public class Main {
 	public static void start() {
 
-		Grahpics.start();
+		Graphics.start();
 		Network.start();
 		control.start();
 		Logic.start();
