@@ -1,5 +1,5 @@
 public class control {
 	public static void start() {
-			System.out.println(¡§control¡¨);
+			System.out.println("control");
 	}
 }
